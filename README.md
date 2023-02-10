@@ -15,7 +15,14 @@
    La nanotecnologia es uno de los campos de investigacion que tiene un gran futuro, sus aplicaciones se pueden utilizar en casi todos los aspectos de la vida, 
    sea en las industrias textil, armamentistica, agricolas, etc.
    
-   Con lo cual no era de extrañarse que empezaran a verse avances en el campo de la medicina y asi ha sido 	<sup> 1 </sup>
+   Con lo cual no era de extrañarse que empezaran a verse avances en el campo de la medicina y asi ha sido, el poder modificar moleculas a nivel atomico o 
+   tamaños un poco mas grandes, gracias a esto es posible suministrar farmacos en lugares especificos del cuerpo humano e ingresar al mismo para verificar el
+   estado de salud del paciente revisando anomalias en celulas o si hay seres invasivos que no sean detectables a los metodos normales, por ejemplo
+   el alzheimer en una etapa avanzada ahora es posible de combatir gracias a estos avances, algo que anteriormente no se podia hacer ya que los farmacos
+   utilizados no lograban llegar a la ubicacion requerida por su poca solubilidad.<sup> 1 </sup>
+   
+   Dicho esto, la intencion de este trabajo es por medio de investigacion y experimentacion, lograr avanzar aun mas de lo que ya se ha logrado, combatiendo
+   enfermedades desconocidas que son potencial para convertirse en epidemia o incluso en pandemia.
    
    *Referencias*
    
