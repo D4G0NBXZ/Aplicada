@@ -12,7 +12,10 @@
    
    **Estado del arte**
    
-   Como se menciono anteriormente
+   La nanotecnologia es uno de los campos de investigacion que tiene un gran futuro, sus aplicaciones se pueden utilizar en casi todos los aspectos de la vida, 
+   sea en las industrias textil, armamentistica, agricolas, etc.
+   
+   Con lo cual no era de extrañarse que empezaran a verse avances en el campo de la medicina y asi ha sido 	<sup> 1 </sup>
    
    *Referencias*
    
